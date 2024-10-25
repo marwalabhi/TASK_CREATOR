@@ -1,0 +1,26 @@
+{
+  "name": "task_creator",
+  "version": "1.0.0",
+  "description": "It is a basic task creator app where user can create a task, delete a task or edit a task.",
+  "main": "app.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marwalabhi/TASK_CREATOR.git"
+  },
+  "keywords": [
+    "react",
+    "task-creator",
+    "add",
+    "delete",
+    "edit"
+  ],
+  "author": "Abhishek Marwal",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/marwalabhi/TASK_CREATOR/issues"
+  },
+  "homepage": "https://github.com/marwalabhi/TASK_CREATOR#readme"
+}
