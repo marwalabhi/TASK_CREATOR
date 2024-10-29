@@ -1,0 +1,66 @@
+/* global styling */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.app-title {
+  font-size: 20px;
+  font-weight: 600;
+  font-family: "Lexend Exa", sans-serif;
+  font-style: normal;
+  text-align: center;
+  padding-block: 30px;
+}
+.label-things-to-do {
+  user-select: none;
+  color: black;
+  font-size: 64px;
+  font-weight: 700;
+  line-height: normal;
+  font-family: "Instrument Sans", sans-serif;
+  margin-left: 65px;
+}
+.task-header {
+  display: flex;
+  width: 80vw;
+  margin: auto;
+  background-color: #f3f1ff;
+  height: 9rem;
+  border-radius: 11px;
+  justify-content: space-between;
+  align-items: center;
+}
+.create-task-btn{
+  width: 245px;
+  height: 43px;
+  color: #fff;
+  border: none;
+  border-radius: 5px;
+  background: purple;
+  font-size: 14px;
+  font-weight: 600;
+  cursor: pointer;
+  margin-right: 65px;
+  font-family: "Poppins", sans-serif;
+}
+.create-task-btn:hover {
+  background-color: rgb(162, 7, 162);
+}
+.task-info-btn-container{
+  display: flex;
+  align-items: center;
+  width: 41vw;
+  justify-content: space-between;
+}
+.task-completed{
+  font-size: 16px;
+  font-weight: 500;
+  line-height: normal;
+  font-family: "Poppins", sans-serif;
+}
+.no-of-task{
+  font-family: "Poppins", sans-serif;
+  font-weight: 600;
+  font-size: 40px;
+}

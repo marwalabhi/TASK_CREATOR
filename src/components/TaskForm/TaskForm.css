@@ -1,0 +1,13 @@
+.task-create-form{
+    width: 53rem;
+    height: 35rem;
+    border-radius: 8px;
+    border: 1px solid black;
+    font-family: "Instrument Sans", sans-serif;
+}
+.tskform-head{
+    font-size: 24px;
+    font-weight: 500;
+    line-height: normal;
+    font-family: "Poppins", sans-serif;
+}   
